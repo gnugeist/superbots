@@ -32,18 +32,14 @@ KP_Multiply [*] will be for selecting Dire Bots and responding YES.
 ( Pressing /No will toggle between radiant and dire )
 3. Enjoy the game, at 25 minutes the script will ask you more questions regarding neutral items.
 
-[InputService] execing SB/helpkeys
-*************************************************
-*** Keypad 9 - Alternative flat 100gpm script
-*************************************************
-*** Keypad 8 - Spawn a Warlock Golem
-*** Keypad 7 - Spawn a Ancient Prowler ( micro to mess with friends )
-*** Keypad 6 - Give bots 600 rocketflare vision. lasts 1 sec.
-*** Keypad 5 - Spawn an invis Lycan Wolf ( no expire )
-*** Keypad 4 - Spawn Eye of the Forest. flying vision, but hp bar is visible.
-*************************************************
-*** Keypad 3 - Give bots 1000g
-*** Keypad 2 - Give bots 500g
-*** Keypad 1 - Give bots 300g
-*** Keypad 0 - Give bots 1 Level
-*** Keypad Delete - Give bots a teleport scroll
+ Keypad 9 - Alternative flat 100gpm script
+ Keypad 8 - Spawn a Warlock Golem
+ Keypad 7 - Spawn a Ancient Prowler ( micro to mess with friends )
+ Keypad 6 - Give bots 600 rocketflare vision. lasts 1 sec.
+ Keypad 5 - Spawn an invis Lycan Wolf ( no expire )
+ Keypad 4 - Spawn Eye of the Forest. flying vision, but hp bar is visible.
+ Keypad 3 - Give bots 1000g
+ Keypad 2 - Give bots 500g
+ Keypad 1 - Give bots 300g
+ Keypad 0 - Give bots 1 Level
+ Keypad Delete - Give bots a teleport scroll
