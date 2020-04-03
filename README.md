@@ -32,6 +32,7 @@ KP_Multiply [*] will be for selecting Dire Bots and responding YES.
 ( Pressing /No will toggle between radiant and dire )
 3. Enjoy the game, at 25 minutes the script will ask you more questions regarding neutral items.
 
+## In-Game Keybinds / Shortcuts
  Keypad 9 - Alternative flat 100gpm script
  
  Keypad 8 - Spawn a Warlock Golem
